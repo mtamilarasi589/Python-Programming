@@ -1,0 +1,3 @@
+#Python program to reverse the string using a slice operator
+a = input("Enter the string: ")
+print("Reversed string:", a[::-1])
